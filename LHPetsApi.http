@@ -1,0 +1,6 @@
+@LHPetsApi_HostAddress = http://localhost:5207
+
+GET {{LHPetsApi_HostAddress}}/swagger/
+Accept: application/json
+
+###
